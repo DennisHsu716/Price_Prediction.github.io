@@ -76,4 +76,22 @@ Time Series Price Prediction/
 !python3 src/train.py --config config/default.yaml
 
 # 4) Evaluate model
-!python3 src/evaluate.py --truth data/processed/FE.csv
+!python3 src/evaluate.py --truth data/processed/FE.csv  
+```
+
+## 📈 Example Output
+```
+saved: data/raw/AAPL.csv shape: (1905, 6)
+saved features: data/processed/FE.csv shape: (1885, 14)
+CV RMSE: 0.02239
+MAE (demo): 0.01303
+```
+
+## 🔧 Future Improvements
+* Add more technical indicators (MACD, RSI, Bollinger Bands, etc.)
+
+* Implement non-linear models (XGBoost, LightGBM, LSTM, Transformer)
+
+* Automate the pipeline (download → features → training → evaluation in one step)
+
+* Compare model performance with baseline trading strategies
