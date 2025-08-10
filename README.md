@@ -1,8 +1,12 @@
 # QuantVision
-
 ## 📌 Project Overview
 This project demonstrates how to use historical stock price data, combined with feature engineering and a machine learning model (default: Linear Regression), to predict future prices or returns.  
-Data is sourced from [Yahoo Finance](https://finance.yahoo.com/) and the code is designed to run in Google Colab, with storage on Google Drive.
+
+**Data Source:** [Yahoo Finance](https://finance.yahoo.com/)  
+**Run in Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LWzvTDbr2pwzbRivRE8TicvhaI7aocuO?usp=sharing)
+
+[https://drive.google.com/drive/folders/1ILsvOnSj3U-M69aLuhNJszU9SaffiNnd?usp=sharing](https://colab.research.google.com/drive/1LWzvTDbr2pwzbRivRE8TicvhaI7aocuO?usp=sharing)
+
 
 ---
 
