@@ -8,18 +8,16 @@ Data is sourced from [Yahoo Finance](https://finance.yahoo.com/) and the code is
 
 ## 📂 Project Structure
 Time Series Price Prediction/  
-├── data/  
-│ ├── raw/ # Raw downloaded stock price data (CSV)  
-│ └── processed/ # Feature-engineered data (CSV)  
 ├── src/  
-│ ├── data/  
-│ │ ├── download.py # Download historical stock data  
-│ │ └── features.py # Feature engineering  
-│ ├── train.py # Model training with cross-validation  
-│ └── evaluate.py # Model evaluation  
+│   ├── data/  
+│   │   ├── download.py  
+│   │   └── features.py  
+│   ├── train.py  
+│   └── evaluate.py  
 ├── config/  
-│ └── default.yaml # Configuration file (e.g., CV folds)  
-└── runs/ # Training and evaluation outputs  
+│   └── default.yaml  
+├── requirements.txt  
+└── examples      
 
 ---
 
