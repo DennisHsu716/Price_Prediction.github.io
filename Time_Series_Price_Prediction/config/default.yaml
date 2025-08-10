@@ -1,0 +1,26 @@
+features:
+- ohlcv
+- returns
+- rsi
+- macd
+- bbands
+metrics:
+- rmse
+- mae
+- directional_accuracy
+model:
+  dropout: 0.1
+  hidden_size: 128
+  n_layers: 3
+  type: transformer
+seed: 42
+symbol: AAPL
+training:
+  batch_size: 64
+  epochs: 5
+  lr: 0.001
+  weight_decay: 0.0001
+validation:
+  folds: 3
+  method: time_series_split
+window: 60
