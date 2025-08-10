@@ -5,8 +5,6 @@ This project demonstrates how to use historical stock price data, combined with 
 **Data Source:** [Yahoo Finance](https://finance.yahoo.com/)  
 **Run in Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LWzvTDbr2pwzbRivRE8TicvhaI7aocuO?usp=sharing)
 
-[https://drive.google.com/drive/folders/1ILsvOnSj3U-M69aLuhNJszU9SaffiNnd?usp=sharing](https://colab.research.google.com/drive/1LWzvTDbr2pwzbRivRE8TicvhaI7aocuO?usp=sharing)
-
 
 ---
 
