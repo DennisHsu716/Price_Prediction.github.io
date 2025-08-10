@@ -1,4 +1,4 @@
-# Time Series Price Prediction
+# QuantVision
 
 ## 📌 Project Overview
 This project demonstrates how to use historical stock price data, combined with feature engineering and a machine learning model (default: Linear Regression), to predict future prices or returns.  
@@ -17,7 +17,8 @@ Time Series Price Prediction/
 ├── config/  
 │   └── default.yaml  
 ├── requirements.txt  
-└── examples      
+├── Sample_FE.xlsx  
+└── Sample_cv.xlsx    
 
 ---
 
