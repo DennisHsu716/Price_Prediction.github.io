@@ -9,6 +9,7 @@ This project demonstrates how to use historical stock price data, combined with 
 ---
 
 ## 📂 Project Structure
+```
 Time Series Price Prediction/  
 ├── src/  
 │   ├── data/  
@@ -21,7 +22,7 @@ Time Series Price Prediction/
 ├── requirements.txt  
 ├── Sample_FE.xlsx  
 └── Sample_cv.xlsx    
-
+```
 ---
 
 ## 📊 Data Pipeline
